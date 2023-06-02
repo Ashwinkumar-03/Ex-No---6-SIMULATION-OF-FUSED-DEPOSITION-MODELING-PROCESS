@@ -21,6 +21,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![8](https://github.com/Ashwinkumar-03/Ex-No---6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118663725/701dae76-c0f4-415d-9b86-56ba4b5eb591)
+
 
 ### Name:
 ### Register Number:
